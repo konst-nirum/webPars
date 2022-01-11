@@ -1,0 +1,10 @@
+pymorphy2
+aiogram
+SQLAlchemy
+python-dotenv
+python-Levenshtein
+psycopg2
+requests
+googletrans==4.0.0-rc1
+beautifulsoup4
+selenium==3.8.0
